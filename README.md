@@ -7,8 +7,7 @@
 - 📫 How to reach me: you can reach me via email at
 - matodzinenwali4@gmail.com.
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I like watching science fiction movies
-- and a big fan of soccer  
+- ⚡ Fun fact: I like watching science fiction movies and I'm also a big fan of soccer  
 
 <!---
 ByteWizard9/ByteWizard9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
