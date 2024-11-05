@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ByteWizard(Matodzi)
+- 👋 Hi, I’m Matodzi Nenwali 
 - 👀 I’m interested in software  and mobile app development
 - and exploring new technologies.
 - 🌱 I’m currently learning c++,vb.net(visual basic),
